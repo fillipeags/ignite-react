@@ -7,8 +7,8 @@ export function App(){
   return (
     <>
     
-    <RepositoryLIst />
-    <Counter/>
+      <RepositoryLIst />
+      <Counter/>
     
     </>
   )
