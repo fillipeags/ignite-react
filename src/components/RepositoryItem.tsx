@@ -16,6 +16,5 @@ export function RepositoryItem(props : RepositoryItemProps){
       Acessar repositório
     </a>
     </li>
-    
   );
 }
