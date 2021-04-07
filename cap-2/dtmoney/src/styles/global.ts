@@ -3,12 +3,13 @@ import { createGlobalStyle} from 'styled-components'
 export const GlobalStyle = createGlobalStyle`
   :root{
     --background: #f0f2f5;
-    --shape: #FFFFFF;
+    --shape: #FFFF;
     --red: #E52E4D;
     --text-body: #969CB3;
     --text-title: #363F5F;
     --blue: #5429CC;
     --blue-light: #6933FF;
+    --green: #33CC95;
   }
 
   * {
